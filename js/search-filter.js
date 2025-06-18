@@ -54,16 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Fungsi filter genre
-    genreSelect.addEventListener('change', function() {
-        const selectedGenre = this.value;
-        const searchTerm = searchInput.value.toLowerCase();
-        
-        const filteredBooks = booksDatabase.filter(book => {
-            const matchesSearch = book.title.toLowerCase().includes(searchTerm) || 
-                               book.author.toLowerCase().includes(searchTerm);
-            const matchesGenre = selectedGenre === "all" || book.genre === selectedGenre;
-            return matchesSearch && matchesGenre;
-        });
+ 
         
         renderBooks(filteredBooks);
     });
