@@ -11,7 +11,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Isi data buku
-   
+    document.getElementById('book-title').textContent = bookData.title;
+    document.getElementById('book-author').textContent = `Oleh: ${bookData.author}`;
+    document.getElementById('book-price').textContent = bookData.price;
+    document.getElementById('book-genre').textContent = bookData.genre;
+    document.getElementById('book-description').textContent = bookData.description;
+    document.getElementById('detail-book-image').src = bookData.image;
+    document.getElementById('detail-book-image').alt = bookData.title;
     
     // Rating
     const ratingElement = document.createElement('div');
