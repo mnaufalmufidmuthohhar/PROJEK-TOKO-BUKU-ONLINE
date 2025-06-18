@@ -1,7 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('search-input');
-    const genreFilter = document.getElementById('genre-filter');
-    const bookGrid = document.querySelector('.book-grid');
+
     
     if (!bookGrid) return;
     
