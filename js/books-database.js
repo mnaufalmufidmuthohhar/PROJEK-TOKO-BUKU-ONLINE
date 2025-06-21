@@ -110,7 +110,7 @@ const booksDatabase = [
         pages: 332,
         publisher: "Pastel Books",
         year: 2014,
-        isBestseller: true
+        isBestseller: false
     }
 ];
 
