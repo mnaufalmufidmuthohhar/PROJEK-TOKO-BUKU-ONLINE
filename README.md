@@ -4,10 +4,10 @@ BUKUIN adalah toko buku online modern yang menghadirkan beragam pilihan buku ber
 ## DAFTAR ANGGOTA
 | NO | NAMA                        | NIM       | USERNAME GITHUB | TUGAS |
 |----|-----------------------------|-----------|-----------------|-------|
-|1.| M. NAUFAL MUFID MUTHOHHAR     | 240010008 | naufalmufid9    | js/books-database.js, css/responsive.css, js/form-validation.js, contact.html |
-|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 | dedet1000       | index.html, css/styles.css, js/search-filter.js, media/                       |
-|3.| ZOE ARDIAN PRAYOGA            | 240010028 | Zoeardian       | book-detail.html, js/book-detail.js, js/testimonial-slider.js, js/navbar.js   |
-|4.| I KETUT RADITHA WIJAYA        | 240010012 | raditha23       | categories.html, css/animations.css, js/carousel.js, books-database.js        |
+|1.| M. NAUFAL MUFID MUTHOHHAR     | 240010008 | naufalmufid9    | Kontak & Sistem Utilitas (js/books-database.js, css/responsive.css, js/form-validation.js, contact.html( |
+|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 | dedet1000       | Homepage & Sistem Pencarian (index.html, css/styles.css, js/search-filter.js, media/)                       |
+|3.| ZOE ARDIAN PRAYOGA            | 240010028 | Zoeardian       | Detail Buku & Testimoni (book-detail.html, js/book-detail.js, js/testimonial-slider.js, js/navbar.js)   |
+|4.| I KETUT RADITHA WIJAYA        | 240010012 | raditha23       | Kategori Buku & Animasi (categories.html, css/animations.css, js/carousel.js, books-database.js)        |
 
 ## TEKNOLOGI YANG DIGUNAKAN
 - Visual Studio Code 1.101.0
