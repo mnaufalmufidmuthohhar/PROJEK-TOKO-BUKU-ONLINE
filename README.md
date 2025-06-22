@@ -1,6 +1,14 @@
 # BUKUIN
 BUKUIN adalah toko buku online modern yang menghadirkan beragam pilihan buku berkualitas langsung ke genggaman Anda. Dengan desain platform yang minimalis dan elegan, BUKUIN memudahkan siapa saja untuk menemukan, membeli, dan menikmati buku favorit kapan saja, di mana saja. Temukan inspirasi membaca tanpa batas bersama BUKUIN.
 
+## DAFTAR ANGGOTA
+| NO | NAMA                    | NIM | USERNAME GITHUB | TUGAS |
+|----|-------------------------|-----|-----------------|-------|
+|1.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 | 
+|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 |  |
+|3.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 |
+|4.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 |
+
 ## FITUR-FITUR YANG ADA DI BUKUIN
 - BERANDA
 - KATEGORI BUKU
