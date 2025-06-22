@@ -5,7 +5,7 @@ BUKUIN adalah toko buku online modern yang menghadirkan beragam pilihan buku ber
 | NO | NAMA                    | NIM | USERNAME GITHUB | TUGAS |
 |----|-------------------------|-----|-----------------|-------|
 |1.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 | 
-|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 |  |
+|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 | dedet1000 |
 |3.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 |
 |4.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 |
 
