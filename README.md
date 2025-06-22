@@ -2,12 +2,18 @@
 BUKUIN adalah toko buku online modern yang menghadirkan beragam pilihan buku berkualitas langsung ke genggaman Anda. Dengan desain platform yang minimalis dan elegan, BUKUIN memudahkan siapa saja untuk menemukan, membeli, dan menikmati buku favorit kapan saja, di mana saja. Temukan inspirasi membaca tanpa batas bersama BUKUIN.
 
 ## DAFTAR ANGGOTA
-| NO | NAMA                    | NIM | USERNAME GITHUB | TUGAS |
-|----|-------------------------|-----|-----------------|-------|
-|1.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 | 
-|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 | dedet1000 |
-|3.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 |
-|4.| M. NAUFAL MUFID MUTHOHHAR | 240010008 | naufalmufid9 |
+| NO | NAMA                        | NIM       | USERNAME GITHUB | TUGAS |
+|----|-----------------------------|-----------|-----------------|-------|
+|1.| M. NAUFAL MUFID MUTHOHHAR     | 240010008 | naufalmufid9    | 
+|2.| I KADEK DYEDET SUGIANTO YATRA | 240010024 | dedet1000       |
+|3.| ZOE ARDIAN PRAYOGA            | 240010028 | Zoeardian       |
+|4.| I KETUT RADITHA WIJAYA        | 240010012 | raditha23       |
+
+## TEKNOLOGI YANG DIGUNAKAN
+- Visual Studio Code 1.101.0
+- GitHub 3.15.2
+- Chrome 137.0.7151.104
+- Git 2.50.0
 
 ## FITUR-FITUR YANG ADA DI BUKUIN
 - BERANDA
@@ -15,19 +21,6 @@ BUKUIN adalah toko buku online modern yang menghadirkan beragam pilihan buku ber
 - DESKRIPSI BUKU
 - TESTIMONI BUKU
 - KONTAK
-
-## SOFTWARE YANG DIGUNAKAN
-Website ini dibangun menggunakan 
-- Visual Studio Code digunakan untuk mengedit dan menambahkan kode untuk program 
-- GitHub digunakan untuk menyinpan file-file untuk program
-- Chrome digunakan untuk mencari data-data yang dibutuhkan untuk membuat program
-- Git digunakan untuk menghubungkan antara GitHub dengan Visual Studio Code
-
-## SPESIFIKASI YANG DIPERLUKAN
-- Visual Studio Code 1.101.0 or later
-- GitHub 3.15.2 or later
-- Chrome 137.0.7151.104 or later
-- Git 2.50.0 or later
 
 ## STRUKTUR
 website BUKUIN
@@ -69,3 +62,8 @@ project-root/
     ├── laut-bercerita.jpg
     └── loga.jpg
 ```
+## CARA MENJALANKAN WEBSITE 
+untuk menuju ke website BUKUIN bisa mengklik [disini](https://mnaufalmufidmuthohhar.github.io/PROJEK-TOKO-BUKU-ONLINE/)
+
+## TAUTAN MENUJU GITHUB PAGES
+untuk menuju ke website BUKUIN bisa mengklik [disini](https://github.com/mnaufalmufidmuthohhar/PROJEK-TOKO-BUKU-ONLINE.git)
