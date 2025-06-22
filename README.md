@@ -39,9 +39,9 @@ project-root/
 │   ├── carousel.js           # Carousel/banner infinite scroll
 │   ├── search-filter.js      # Fitur pencarian & filter
 │   ├── book-detail.js        # Menampilkan detail buku dinamis
-│   ├── testimonial.js        # Slider testimoni pengguna
+│   ├── testimonial-slider.js # Slider testimoni pengguna
 │   ├── form-validation.js    # Validasi form kontak
-│   └── script.js             # Fungsi utilitas umum
+│   └── navbar.js             # Fungsi utilitas umum
 │
 ├── css/                      # Folder CSS
 │   ├── styles.css            # Gaya utama untuk halaman
