@@ -63,7 +63,7 @@ project-root/
     └── loga.jpg
 ```
 ## CARA MENJALANKAN WEBSITE 
-untuk menuju ke website BUKUIN bisa mengklik [disini](https://mnaufalmufidmuthohhar.github.io/PROJEK-TOKO-BUKU-ONLINE/)
+untuk menuju ke website BUKUIN bisa mengklik [disini](https://naufalmufid9.github.io/PROJEK-TOKO-BUKU-ONLINE/)
 
 ## TAUTAN MENUJU GITHUB PAGES
-untuk menuju ke website BUKUIN bisa mengklik [disini](https://github.com/mnaufalmufidmuthohhar/PROJEK-TOKO-BUKU-ONLINE.git)
+untuk menuju ke website BUKUIN bisa mengklik [disini](https://github.com/naufalmufid9/PROJEK-TOKO-BUKU-ONLINE.git)
