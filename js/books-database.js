@@ -82,7 +82,7 @@ const booksDatabase = [
         pages: 216,
         publisher: "Shueisha",
         year: 1997,
-        isBestseller: false
+        isBestseller: true
     },
     {
         id: 7,
