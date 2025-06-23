@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Data buku (ambil dari booksDatabase atau array khusus)
     // Ambil 5 buku terlaris dari database
-    const carouselBooks = getBestsellers().slice(0, 5);
+    const carouselBooks = getBestsellers().slice(0, 8);
     
 
     // Duplikasi item untuk efek infinite

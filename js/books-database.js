@@ -12,7 +12,7 @@ const booksDatabase = [
         pages: 379,
         publisher: "Kepustakaan Populer Gramedia",
         year: 2021,
-        isBestseller: true
+        isBestseller: false
     },
     {
         id: 2,
