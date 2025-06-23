@@ -714,3 +714,10 @@ footer {
 .btn:hover {
     background-color: #2980b9;
 }
+.best-sellers{
+    padding: 0 50px;
+}
+.best-sellers h3 {
+    padding: 0 20px;
+
+}
